@@ -32,5 +32,12 @@ Completed task responsibilities and timeline; added GitHub repo; updated section
 Amani Paul
 Unsure of how team responsibilities need to be specified; decided to include general sections with most importance
 
+9 Apr 2026
+Wrote Data Management Strategy, discussing choice to implement SQL and other design choices that are reflected in the Software Architecture Diagram.
+Amani Paul
+Agreed upon how to implement the Database Management System, but still open to alternatives if current form is ineffective. 
+
+
+
 
 
